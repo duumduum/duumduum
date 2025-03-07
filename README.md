@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there, I'm Duum Duum 
+💻 **Blockchain & Mobile Developer**  
 
-<!--
-**duumduum/duumduum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer specializing in decentralized applications (dApps), smart contracts, and cross-platform mobile development. Bridging the gap between blockchain innovation and user-friendly interfaces.  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Blockchain:** Solidity, Web3.js.  
+**Frontend:** Flutter, Dart, React.js, Next.js  
+**Backend:** Firebase.
+**Tools:** Git, GitHub Actions, MetaMask Integration. 
+
+## 🚀 What I Do  
+
+- Develop secure and optimized smart contracts on EVM-compatible chains  
+- Create beautiful, responsive dApp interfaces with Flutter and Web technologies  
+- Build decentralized solutions for real-world problems  
+- Contribute to open-source blockchain projects  
+
+## 📈 Current Focus  
+
+Currently exploring Solidity, Layer 2 solutions, and advanced tokenomics models while enhancing mobile dApp UX for mainstream adoption.  
+
+## 🌐 Connect  
+
+Let's collaborate on building the decentralized future! Feel free to reach out for blockchain projects, smart contract audits, or Flutter development.  
+
+> *"Code is law, but innovation is power."*
