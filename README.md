@@ -6,7 +6,7 @@ I'm a passionate developer specializing in decentralized applications (dApps), s
 ## 🔧 Tech Stack  
 
 **Blockchain:** Solidity, Web3.js.  
-**Frontend:** Flutter, Dart, React.js, Next.js  
+**Frontend:** Flutter, Dart.
 **Backend:** Firebase.
 **Tools:** Git, GitHub Actions, MetaMask Integration. 
 
